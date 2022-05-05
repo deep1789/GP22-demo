@@ -66,6 +66,8 @@ int main()
 			printf("\nSTRING 2 IS BIGGER THAN STRING 1");
 	}
 	
+	printf("\nprogram ended");
+	
 	
 	return 0;
 }
