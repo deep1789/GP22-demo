@@ -17,7 +17,7 @@ int main()
 		
 	}
 	
-	printf("\nLength of a string = %d",length);
+	printf("\nLength of a string is %d",length);
 	
 
 	
