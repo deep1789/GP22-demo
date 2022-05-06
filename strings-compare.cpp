@@ -67,6 +67,8 @@ int main()
 	}
 	
 	printf("\nprogram ended...");
+	printf("\ndone...");
+	
 	
 	
 	return 0;
